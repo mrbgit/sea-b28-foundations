@@ -11,6 +11,6 @@ LinkedIn: [michaelbowen1](https://www.linkedin.com/in/michaelbowen1)
 
 I look look pretty much exactly like this, I even still have the shirt:
 
-![A photo of me!](http://www.dealermarketing.com/digital-magazine/2014/06-june-2014/MikeeLrgFile-low.jpg)
+[A photo of me!](http://www.dealermarketing.com/digital-magazine/2014/06-june-2014/MikeeLrgFile-low.jpg)
 
 I am ready to get started!
